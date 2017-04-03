@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,6 +20,6 @@
     "request": "^2.72.0"
   },
   "engines": {
-    "node": "~4.1.2"
+    "node": "4.1.2"
   }
 }
