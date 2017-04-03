@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "messenger_bot_to_help_people_study_things_secret_token",
+    "pageAccessToken": "some_page_access_token",
+    "validationToken": "this_messenger_bot_is_to_help_people_study_things",
+    "serverURL": "https://studybuddy-bot.herokuapp.com"
 }
